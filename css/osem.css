@@ -2,13 +2,13 @@
 
     font-family: 'FontAwesomebrand';
 
-    src: url('../webfonts/fa-brands-400.eot');
+    src: url('https://cdn.jsdelivr.net/gh/bijancot/deliv@5/css/webfonts/fa-brands-400.eot');
 
-    src: url('../webfonts/fa-brands-400.eot') format('embedded-opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/bijancot/deliv@5/css/webfonts/fa-brands-400.eot') format('embedded-opentype'),
 
-      url('../webfonts/fa-brands-400.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/bijancot/deliv@5/css/webfonts/fa-brands-400.woff') format('woff'),
 
-      url('../webfonts/fa-brands-400.ttf') format('truetype');
+      url('https://cdn.jsdelivr.net/gh/bijancot/deliv@5/css/webfonts/fa-brands-400.ttf') format('truetype');
 
     font-weight: normal;
 
