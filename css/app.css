@@ -272,7 +272,7 @@ dt{
 
     height:700px !important;
 
-    background-image:url('https://res.cloudinary.com/bijancot/image/upload/q_60/v1533643968/arm/back.jpg') !important;  
+    background-image:url('https://res.cloudinary.com/bijancot/image/upload/q_auto:low/v1533643968/arm/back.jpg') !important;  
 
     background-position: center bottom; 
 
@@ -332,7 +332,7 @@ body>div#main {
 
     color:white !important;
 
-    background-image:url('https://res.cloudinary.com/bijancot/image/upload/q_60/v1533643968/arm/back2.jpg') !important;  
+    background-image:url('https://res.cloudinary.com/bijancot/image/upload/q_auto:low/v1533643968/arm/back2.jpg') !important;  
 
     background-position: center bottom -360px;
 
