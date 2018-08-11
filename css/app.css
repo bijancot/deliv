@@ -1,0 +1,444 @@
+@font-face {
+
+    font-family: 'FontAwesomebrand';
+
+    src: url('../webfonts/fa-brands-400.eot');
+
+    src: url('../webfonts/fa-brands-400.eot') format('embedded-opentype'),
+
+      url('../webfonts/fa-brands-400.woff') format('woff'),
+
+      url('../webfonts/fa-brands-400.ttf') format('truetype');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+  }
+
+
+
+.hide-for-small-only > a.button{
+
+    font-weight:bold;
+
+}
+
+.pod{
+
+    padding-top:100px;
+
+    padding-bottom:100px;
+
+}
+
+.kos{
+
+    height: 78px !important;
+
+    background-image: linear-gradient(to right bottom,rgb(221,221,221   ) 50%,rgb(109,109,109) 51%);
+
+    -webkit-transform: translate3d(0,0,0);
+
+    -moz-transform: translate3d(0,0,0);
+
+    -ms-transform: translate3d(0,0,0);
+
+    -o-transform: translate3d(0,0,0);
+
+    transform: translate3d(0,0,0);
+
+}
+
+.pok{
+
+    height: 78px !important;
+
+    background-image: linear-gradient(to right bottom,rgb(109,109,109) 50%,rgb(221,221,221)  51%);
+
+    -webkit-transform: translate3d(0,0,0);
+
+    -moz-transform: translate3d(0,0,0);
+
+    -ms-transform: translate3d(0,0,0);
+
+    -o-transform: translate3d(0,0,0);
+
+    transform: translate3d(0,0,0);
+
+}
+
+
+
+.heading3{
+
+    text-align:center;
+
+    font-weight: bold;
+
+    padding-bottom:6vh;
+
+    padding-top:1.96vh;
+
+}
+
+.heading4{
+
+    font-weight: bold;
+
+}
+
+dd{
+
+    font-size:15px !important;
+
+}
+
+dt{
+
+    font-size: 17.5px !important;
+
+}
+
+.bor{
+
+    border:1px solid black;
+
+    height: auto;
+
+    padding:0px;
+
+}
+
+.kol{
+
+    font-family: 'Exo', sans-serif;
+
+    color:white;
+
+}
+
+.yoll{
+
+    font-size: 16px !important;
+
+}
+
+.headingx{
+
+    text-align:center;
+
+    font-weight: bold;
+
+}
+
+.headingy{
+
+    text-align:center;
+
+    font-weight: bold;
+
+}
+
+
+
+#third{
+
+    background-color:rgb(109,109,109);
+
+}
+
+.size-40 { font-size: 40px; }
+
+
+
+.size-50 { font-size: 50px; }
+
+
+
+#footer{
+
+    height: auto !important;
+
+    background-color: rgb(53,53,53);
+
+    color:rgb(221,221,221) !important;
+
+}
+
+#footer > .grid-container >.grid-x >.cell> blockquote{
+
+    color:rgb(221,221,221) !important;
+
+}
+
+.hide-for-small-only >h6 > a, .hide-for-small-only >h6{
+
+    color:rgb(221,221,221) !important;
+
+    font-size: 12px !important;
+
+}
+
+.show-for-small-only > h6>a , .show-for-small-only > h6{
+
+    color:rgb(221,221,221) !important;
+
+    font-size: 12px !important;
+
+}
+
+#footer > .grid-container >.grid-x >.cell{
+
+    padding-top:20px;
+
+}
+
+#footer > .grid-container >.grid-x >.cell>a.button{
+
+    font-weight: bold;
+
+}
+
+
+
+#footer > .grid-container >.grid-x >.cell> .show-for-small-only{
+
+    text-align:center;
+
+}
+#navi{
+    background-color: rgb(53,53,53) !important;
+}
+
+#navi > .top-bar-left >h1.menu-text{
+    font-size:24px;
+    font-weight:bold;
+    font-family: 'Exo', sans-serif;
+    padding-top:5px;
+    padding-bottom: 0px !important;
+    color:white;
+}
+#navi > .top-bar-right {
+    font-weight: bold;
+    font-family: 'Exo', sans-serif;
+    background-color: rgb(53,53,53) !important;
+    padding-top: -100px;
+}
+#navi > .top-bar-right>ul.menu {
+    background-color: rgb(53,53,53) !important;
+}
+#navi > .top-bar-right>ul.menu>li>a{
+    color:white;
+}
+#navi > .top-bar-right>ul.menu>li{
+    margin-top: -2px !important;
+}
+
+#first{
+
+    height:700px !important;
+
+    background-image:url('https://res.cloudinary.com/bijancot/image/upload/q_60/v1533643968/arm/back.jpg') !important;  
+
+    background-position: center bottom; 
+
+}
+
+#first>.cell, #forth>.grid-y>.cell{
+
+    background-color: rgb(109,109,109,0.6) !important;
+
+}
+
+
+
+#second {
+
+    background-color: rgb(221, 221, 221);
+
+    height: auto;
+
+    padding-bottom:45px !important;
+
+}
+
+.step {
+
+    display: inline-block;
+
+    line-height: 1;
+
+    width: 14%;
+
+  }
+
+  .grid-x>.large-offset-2>a{
+
+    color:black;
+
+  }
+
+
+
+  .grid-x>.large-offset-2>a:hover{
+
+    color:rgba(161, 155, 155, 0.712);
+
+  }
+
+body>div#main {
+
+    height: 630px;
+
+}
+
+
+
+#forth{
+
+    color:white !important;
+
+    background-image:url('https://res.cloudinary.com/bijancot/image/upload/q_60/v1533643968/arm/back2.jpg') !important;  
+
+    background-position: center bottom -360px;
+
+    font-weight: bold;
+
+}
+
+#forth>i{
+
+    color:white !important;
+
+}
+
+form>label{
+
+    color:white;
+
+    font-weight: bold;
+
+}
+
+.grid-y>.medium-10{
+
+    padding-top:16px;
+
+}
+
+.fa-facebook-square{
+
+    color:rgb(66,103,178);
+
+}
+
+.fa-facebook-square:hover{
+
+    color:rgba(66, 103, 178, 0.86);
+
+}
+
+.fa-medium{
+
+    color:rgb(27,171,110);
+
+}
+
+.fa-medium:hover{
+
+    color:rgb(27,171,110, 0.7);
+
+}
+
+.fa-envelope{
+
+    color:rgb(233,57,42);
+
+}
+
+.fa-envelope:hover{
+
+    color:rgb(233,57,42,0.8);
+
+}
+
+#forth>.grid-y{
+
+    height: 400px;
+
+}
+
+.fa-youtube{
+
+    color:rgb(255,0,0);
+
+}
+
+.fa-youtube:hover{
+
+    color:rgb(255,0,0,0.7);
+
+}
+
+.fa-instagram{
+
+    color:rgb(209,40,149);
+
+}
+
+.fa-instagram:hover{
+
+    color:rgb(209,40,149,0.7);
+
+}
+
+.fa-linkedin{
+
+    color:rgb(0,119,181);
+
+}
+
+.fa-linkedin:hover{
+
+    color:rgb(0,119,181,0.7);
+
+}
+
+form>button{
+
+    font-weight: bold;
+
+}
+
+#forth>.grid-y>.cell>.grid-container>.grid-x>.hide-for-small-only>.grid-y{
+
+    height: 400px;
+
+    text-align:center;
+
+}
+
+#forth>.grid-y>.cell>.grid-container>.grid-x>.hide-for-small-only>.grid-y>.large-6>div{
+
+    height:auto;
+
+    padding:20px;
+
+    background-color: rgb(255, 255, 255,0.9);
+
+    color:rgb(48, 48, 48)
+
+}
+
+#footer>.grid-container>.grid-x>.cell>.show-for-small-only>a>i.step{
+
+    color:rgb(221,221,221);
+
+}
+
+#footer>.grid-container>.grid-x>.cell>.show-for-small-only>a>i.step:hover{
+
+    color:rgb(221,221,221,0.7);
+
+}
