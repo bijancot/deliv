@@ -99,7 +99,70 @@ dt{
     font-size: 17.5px !important;
 
 }
+#main>div.large-1{
+    z-index: 3;
+}
+#main>div.large-1>div.title-bar{
+    height: 100%;
+    background-color: rgb(53,53,53);
+}
+#main>div.large-1>div.title-bar>div.title-bar-left>h1{
+    font-family: 'Exo', sans-serif;
+    padding-top:8px !important;
+}
 
+.grid-padding-x>.large-6{
+    height: auto;
+}
+.large-offset-1>.show-for-small-only{
+    text-align: center;
+}
+.large-offset-1>.show-for-small-only>h2{
+    font-size:26px;
+}
+.large-offset-1>.show-for-small-only>.button{
+    font-weight: bold;
+}
+
+.desc{
+    font-weight: bold;
+    color:white;
+    font-size: 18px;
+}
+.sec{
+    height: 2170px;
+}
+#third{
+    height:auto !important;
+    padding-bottom: 25px;
+}
+#third>.grid-y{
+    height:auto;
+}
+#third>.grid-y>.med{
+    height:60px;
+}
+#third>.grid-y>.large-8>.grid-container>.grid-padding-x{
+    color: white;
+}
+#fifth{
+    background-color:rgb(221,221,221);
+    height: auto !important;
+}
+#fifth>.grid-y{
+    height: auto;
+    padding-top:30px;
+}
+#fifth>.grid-y>.large-8{
+    padding-top:2vh;
+}
+#fifth>.grid-y>.large-8>.grid-container{
+    height: auto !important;
+}
+.large-offset-1>p>a{
+    color:white !important;
+    font-weight: bold;
+}
 .bor{
 
     border:1px solid black;
@@ -131,16 +194,6 @@ dt{
     font-weight: bold;
 
 }
-
-.headingy{
-
-    text-align:center;
-
-    font-weight: bold;
-
-}
-
-
 
 #third{
 
